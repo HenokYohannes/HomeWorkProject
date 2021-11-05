@@ -4,7 +4,6 @@ public class DogTester1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
 	Dog1 FosterDog =new Dog1();
 	
 	FosterDog.name="Tyson";
@@ -14,9 +13,7 @@ public class DogTester1 {
 	FosterDog.color="Black";
 	
 	System.out.println("The Foster Dog name is "+FosterDog.name);
-	
 	System.out.println("his age is "+FosterDog.age+ " and his gender is "+FosterDog.gender+" and his color is "+FosterDog.color);
-	
 	System.out.println("--------------------------");
 	
 	FosterDog.name="Sky";
@@ -27,7 +24,6 @@ public class DogTester1 {
 	
 	System.out.println("The Foster Dog name is "+FosterDog.name);
 	System.out.println("her age is "+FosterDog.age+ " and her gender is "+FosterDog.gender+" and her color is "+FosterDog.color);
-	
 	System.out.println("--------------------------");
 	
 	FosterDog.name="Bobby";
